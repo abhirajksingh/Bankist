@@ -9,7 +9,7 @@
 </ol>
 
 <h3>FlowChart</h3>
-![image](https://github.com/abhirajksingh/Bankist/assets/81940468/0932bc65-cbeb-42a8-b2ca-b958f33b98df)
+![Bank-flowchart](Bank-flowchart.png)
 
 <h3>Feature</h3>
 <ol>

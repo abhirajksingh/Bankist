@@ -9,7 +9,8 @@
 </ol>
 
 <h3>FlowChart</h3>
-![Bank-flowchart](Bank-flowchart.png)
+
+![Bank-flowchart](https://github.com/abhirajksingh/Bankist/assets/81940468/78263017-b533-4229-a207-4e676523fabe)
 
 <h3>Feature</h3>
 <ol>
@@ -23,4 +24,11 @@
   <li>How much interest they earn on their total transection.</li>
   <li>A time out running that tells that how much time left in automatic logout.</li>
 </ol>
+<h3>Screenshots</h3>
+<h4>Image 1</h4>
 
+![screenshot](https://github.com/abhirajksingh/Bankist/assets/81940468/1a75c346-2179-496d-aaf3-7df9e1d51584)
+
+<h4>Image 2</h4>
+
+![screenshots](https://github.com/abhirajksingh/Bankist/assets/81940468/c411f08b-9ff2-456a-b7f8-c764e86dcce4)

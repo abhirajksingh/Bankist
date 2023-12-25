@@ -9,7 +9,7 @@
 </ol>
 
 <h3>FlowChart</h3>
-<img src="(https://github.com/abhirajksingh/Bankist/assets/81940468/bf3e3d9b-72cc-49a9-bec8-d042af017858)"/>
+![image](https://github.com/abhirajksingh/Bankist/assets/81940468/0932bc65-cbeb-42a8-b2ca-b958f33b98df)
 
 <h3>Feature</h3>
 <ol>
